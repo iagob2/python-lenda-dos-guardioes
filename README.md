@@ -1,7 +1,7 @@
 # 🐍 Python: A Lenda dos Guardiões
 
 <div align="center">
-  <img src="assets/images/capa.png" alt="Capa do E-book" width="400"/>
+  <img src="assets/images/capa_pinciapal.png" alt="Capa do E-book" width="400"/>
   
   **Um E-book Educativo de Python com Temática RPG**
   
@@ -115,7 +115,7 @@ Este projeto está sob a licença **MIT**. Veja o arquivo [LICENSE](LICENSE) par
 
 **IAGO**
 - 💼 LinkedIn: [https://www.linkedin.com/in/iago-lima-97bb53233/]
-- 🐱 GitHub: [github.com/iagob2]
+- 🐱 GitHub: [(https://github.com/iagob2)]
 - 📧 Email: [iagolimab2@gmail.com]
 
 ---
